@@ -1,5 +1,5 @@
 /* PAPER PIANO V3.0
- * By- Soumojit Ash, if need help contatc me - soumojitash@gmail.com
+ * By- Arnab Ray & Soumojit Ash if need help contact me - alfatitas747ray@gmail.com, soumojitash@gmail.com
  * 
  * This piano works by capacitive sensing. The piano have 2 octaves and a last C note, you can set the notes of the keys in the code below
  * Also you can change capacitive sensor values according to your keys.
